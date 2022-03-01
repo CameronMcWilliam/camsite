@@ -24,10 +24,10 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi, my name is Cameron, and I'm a software developer, currently working as a cloud integration consultant at IBM.</p>
         <p>
-          I'm planning to use this website as a place to display my work portfolio and a blog post about technologies that excite me.
+          I'm planning to use this website as a place to display my work portfolio and a blog post about topics that interest me.
         </p>
         <p>
-          My current focuses in development in my free time are: virtual reality, web 3.0 and alogrithmic trading.
+          My current focuses in development in my free time are algorithmic trading, Web 3, and Virtual Reality.
         </p>
       </section>
       {/* Add this <section> tag below the existing <section> tag */}
