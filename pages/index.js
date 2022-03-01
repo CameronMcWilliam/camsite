@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
           I'm planning to use this website as a place to display my work portfolio and a blog post about topics that interest me.
         </p>
         <p>
-          My current focuses in development in my free time are algorithmic trading, Web 3, and Virtual Reality.
+          My current focuses in development in my free time are Algorithmic Trading, Web 3, and Virtual Reality.
         </p>
       </section>
       {/* Add this <section> tag below the existing <section> tag */}
